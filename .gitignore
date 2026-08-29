@@ -1,0 +1,6 @@
+*.DS_Store
+*.safetensors
+*.ckpt
+outputs/
+__pycache__/
+.env
